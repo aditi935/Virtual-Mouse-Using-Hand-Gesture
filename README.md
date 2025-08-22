@@ -45,7 +45,6 @@ This system provides an innovative example of **Human-Computer Interaction (HCI)
 
 ## 📂 Project Structure  
 
-```text
 **📦 Virtual-Mouse-Using-Hand-Gesture/
 **├── 📄 virtual_mouse.py     # Main script
 **├── 📄 requirements.txt     # Dependencies
@@ -53,7 +52,7 @@ This system provides an innovative example of **Human-Computer Interaction (HCI)
 **├── ⚙️ .gitignore            # Ignore cache & binaries
 **└── 📂 .venv/               # Virtual environment (not committed)
 
-##🔧 Installation & Setup
+## 🔧 Installation & Setup
 **1️⃣ Clone the Repository
       git clone https://github.com/yourusername/Virtual-Mouse-Using-Hand-Gesture.git
       cd Virtual-Mouse-Using-Hand-Gesture
@@ -80,11 +79,11 @@ This system provides an innovative example of **Human-Computer Interaction (HCI)
 👆 Click → Bring thumb & index finger close together.
 🔴 Exit → Close the Tkinter window to stop the program.
 
-##📸 Demo
+## 📸 Demo
 Gesture	Action
 👍 Thumb movement	Cursor moves
 👆 Thumb + Index close	Left-click
 
-##🧩 Notes
+## 🧩 Notes
 Recommended Python version: 3.9.x
 This project uses a .venv virtual environment for isolation.
