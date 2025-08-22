@@ -45,45 +45,38 @@ This system provides an innovative example of **Human-Computer Interaction (HCI)
 
 ## 📂 Project Structure  
 
-**📦 Virtual-Mouse-Using-Hand-Gesture/.
-**├── 📄 virtual_mouse.py     # Main script.
-**├── 📄 requirements.txt     # Dependencies.
-**├── 📄 README.md            # Documentation.
-**├── ⚙️ .gitignore            # Ignore cache & binaries.
-**└── 📂 .venv/               # Virtual environment (not committed).
+**📦 Project Root** → Virtual-Mouse-Using-Hand-Gesture/  
+**📄 Main Script** → virtual_mouse.py  
+**📄 Dependencies** → requirements.txt  
+**📄 Documentation** → README.md  
+**⚙️ Git Ignore** → .gitignore  
+**📂 Virtual Environment** → .venv/ (not committed)  
 
-## 🔧 Installation & Setup
-**1️⃣ Clone the Repository
-      **git clone https://github.com/yourusername/Virtual-Mouse-Using-Hand-Gesture.git.
-      **cd Virtual-Mouse-Using-Hand-Gesture.
+## 🔧 Installation & Setup  
+**1️⃣ Clone the Repository** → git clone https://github.com/yourusername/Virtual-Mouse-Using-Hand-Gesture.git , cd Virtual-Mouse-Using-Hand-Gesture  
 
+**2️⃣ Create Virtual Environment** → python -m venv .venv , source .venv/bin/activate (Linux/Mac) , .venv\Scripts\activate (Windows)  
 
-**2️⃣ Create Virtual Environment
-      **python -m venv .venv.
-      **source .venv/bin/activate      # On Linux/Mac.
-      **.venv\Scripts\activate         # On Windows.
+**3️⃣ Install Dependencies** → opencv-python , mediapipe , pyautogui , pillow , then install: pip install -r requirements.txt  
 
-**3️⃣ Install Dependencies
-      opencv-python
-      mediapipe
-      pyautogui
-      pillow
-      Then install:
-      pip install -r requirements.txt
+**4️⃣ Run the Project** → python virtual_mouse.py  
 
-**4️⃣ Run the Project
-      **python virtual_mouse.py.
+---
 
-## 🎮 Controls
-🖐️ **Move Cursor → Move your thumb in front of the camera.
-👆 **Click → Bring thumb & index finger close together.
-🔴 **Exit → Close the Tkinter window to stop the program.
+## 🎮 Controls  
+🖐️ **Move Cursor** → Move your thumb in front of the camera  
+👆 **Click** → Bring thumb & index finger close together  
+🔴 **Exit** → Close the Tkinter window to stop the program  
 
-## 📸 Demo
-**Gesture	Action.
-👍 **Thumb movement	Cursor moves.
-👆 **Thumb + Index close	Left-click.
+---
 
-## 🧩 Notes
-**Recommended Python version: 3.9.x.
-**This project uses a .venv virtual environment for isolation.
+## 📸 Demo  
+👍 **Thumb movement** → Cursor moves  
+👆 **Thumb + Index close** → Left-click  
+
+---
+
+## 🧩 Notes  
+**Recommended Python version** → 3.9.x  
+**Virtual environment** → Uses .venv for isolation  
+**.gitignore** → Skips __pycache__/ , .venv/ , *.pyc , *.pyo , *.dll etc.  
