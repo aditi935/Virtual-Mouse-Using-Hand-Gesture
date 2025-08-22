@@ -53,11 +53,19 @@ This system provides an innovative example of **Human-Computer Interaction (HCI)
 **📂 Virtual Environment** → .venv/ (not committed)  
 
 ## 🔧 Installation & Setup  
-**1️⃣ Clone the Repository** → git clone https://github.com/yourusername/Virtual-Mouse-Using-Hand-Gesture.git , cd Virtual-Mouse-Using-Hand-Gesture  
+**1️⃣ Clone the Repository** → git clone https://github.com/yourusername/Virtual-Mouse-Using-Hand-Gesture.git , 
+**cd Virtual-Mouse-Using-Hand-Gesture**
 
-**2️⃣ Create Virtual Environment** → python -m venv .venv , source .venv/bin/activate (Linux/Mac) , .venv\Scripts\activate (Windows)  
+**2️⃣ Create Virtual Environment**  **python -m venv .venv**
+**source .venv/bin/activate #on (Linux/Mac** 
+**.venv\Scripts\activate #0n (Windows)**  
 
-**3️⃣ Install Dependencies** → opencv-python , mediapipe , pyautogui , pillow , then install: pip install -r requirements.txt  
+**3️⃣ Install Dependencies** 
+**opencv-python**
+**mediapipe**
+**pyautogui**
+**pillow**
+then install: pip install -r requirements.txt  
 
 **4️⃣ Run the Project** → python virtual_mouse.py  
 
