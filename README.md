@@ -1,4 +1,4 @@
-# 🖥️ Virtual Mouse Using Hand Gesture  
+# 🖥️ Virtual Mouse Using Hand Gesture ✋ 
 
 A **Virtual Mouse System** built with **Python, OpenCV, Mediapipe, and Tkinter** that allows users to control the mouse pointer using **hand gestures** captured by a webcam.  
 
@@ -51,7 +51,6 @@ Virtual-Mouse-Using-Hand-Gesture/
 │── README.md # Documentation
 │── .gitignore # Ignore cache & binaries
 │── .venv/ # Virtual environment (not committed)
-
 
 ---
 
