@@ -1,0 +1,13 @@
+# Virtual env
+.venv/
+
+# Python cache / artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Native binaries (don’t commit)
+*.dll
+*.so
+*.dylib
