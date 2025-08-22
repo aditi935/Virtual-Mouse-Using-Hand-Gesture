@@ -45,23 +45,23 @@ This system provides an innovative example of **Human-Computer Interaction (HCI)
 
 ## 📂 Project Structure  
 
-**📦 Virtual-Mouse-Using-Hand-Gesture/
-**├── 📄 virtual_mouse.py     # Main script
-**├── 📄 requirements.txt     # Dependencies
-**├── 📄 README.md            # Documentation
-**├── ⚙️ .gitignore            # Ignore cache & binaries
-**└── 📂 .venv/               # Virtual environment (not committed)
+**📦 Virtual-Mouse-Using-Hand-Gesture/.
+**├── 📄 virtual_mouse.py     # Main script.
+**├── 📄 requirements.txt     # Dependencies.
+**├── 📄 README.md            # Documentation.
+**├── ⚙️ .gitignore            # Ignore cache & binaries.
+**└── 📂 .venv/               # Virtual environment (not committed).
 
 ## 🔧 Installation & Setup
 **1️⃣ Clone the Repository
-      git clone https://github.com/yourusername/Virtual-Mouse-Using-Hand-Gesture.git
-      cd Virtual-Mouse-Using-Hand-Gesture
+      **git clone https://github.com/yourusername/Virtual-Mouse-Using-Hand-Gesture.git.
+      **cd Virtual-Mouse-Using-Hand-Gesture.
 
 
 **2️⃣ Create Virtual Environment
-      python -m venv .venv
-      source .venv/bin/activate      # On Linux/Mac
-      .venv\Scripts\activate         # On Windows
+      **python -m venv .venv.
+      **source .venv/bin/activate      # On Linux/Mac.
+      **.venv\Scripts\activate         # On Windows.
 
 **3️⃣ Install Dependencies
       opencv-python
@@ -72,18 +72,18 @@ This system provides an innovative example of **Human-Computer Interaction (HCI)
       pip install -r requirements.txt
 
 **4️⃣ Run the Project
-      python virtual_mouse.py
+      **python virtual_mouse.py.
 
-##🎮 Controls
-🖐️ Move Cursor → Move your thumb in front of the camera.
-👆 Click → Bring thumb & index finger close together.
-🔴 Exit → Close the Tkinter window to stop the program.
+## 🎮 Controls
+🖐️ **Move Cursor → Move your thumb in front of the camera.
+👆 **Click → Bring thumb & index finger close together.
+🔴 **Exit → Close the Tkinter window to stop the program.
 
 ## 📸 Demo
-Gesture	Action
-👍 Thumb movement	Cursor moves
-👆 Thumb + Index close	Left-click
+**Gesture	Action.
+👍 **Thumb movement	Cursor moves.
+👆 **Thumb + Index close	Left-click.
 
 ## 🧩 Notes
-Recommended Python version: 3.9.x
-This project uses a .venv virtual environment for isolation.
+**Recommended Python version: 3.9.x.
+**This project uses a .venv virtual environment for isolation.
