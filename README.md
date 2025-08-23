@@ -11,7 +11,7 @@ This system provides an innovative example of **Human-Computer Interaction (HCI)
 ---
 
 ## 🎥 Demo Video
-[Click here to watch the demo](https://youtu.be/CRwhS--JQmo)
+[Click here to Understand the Project](https://youtu.be/CRwhS--JQmo)
 
 ---
 
