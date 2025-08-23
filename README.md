@@ -77,7 +77,7 @@ This system provides an innovative example of **Human-Computer Interaction (HCI)
 
 ## 📸 Demo  
 👍 **Thumb movement** → Cursor moves  
-👆 **Thumb + Index close** → Left-click  
+👆 **Thumb + Index close** → click  
 
 ---
 
